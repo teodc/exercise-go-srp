@@ -1,1 +1,1 @@
-# exercise-go-srp-example
+# exercise-go-srp
